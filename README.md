@@ -1,4 +1,4 @@
-<h1 align="center">📚 LLMs from Scratch</h1>
+<h1 align="center">📚 LLMs from Scratch</h1> [Click to go to UI Interface](https://huggingface.co/spaces/Ramsreyasjey/gpt2-chatbot-ui)
 <p align="center"><i>A hands-on journey into the inner workings of Large Language Models</i></p>
 
 ---
